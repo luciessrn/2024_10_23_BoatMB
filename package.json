@@ -1,0 +1,19 @@
+{
+    "name": "be.sslucie.boatmb",
+    "version": "0.0.1",
+    "displayName": "Lucie boat for MB Game",
+    "description": "This tool contains some script and 3D mesh for a boat in the game",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://github.com/luciessrn/2024_10_23_BoatMB",
+    "licensesUrl": "https://choosealicense.com/licenses/mit/",
+   "keywords": [
+      "Toolbox",
+      "Script"
+    ],
+    "author": {
+      "name": "Lucie Serena",
+      "email": "lucieserena1030@gmail.com",
+      "url": "https://github.com/luciessrn"
+    }
+  }
