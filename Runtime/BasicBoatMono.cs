@@ -13,6 +13,12 @@ namespace Luciessrn {
         public float boatSpeedVertical = 5f;
         public float RotationSpeedHorizontal = 5f;
 
+
+        [ContextMenu("Zero")]
+        public void SetToZero() {
+            m_percentHorizontalAxis = 0;
+            m_percentVerticalAxis = 0;
+        }
         private void Update()
         {
             float VerticalMove = m_percentVerticalAxis * boatSpeedVertical * Time.deltaTime;
